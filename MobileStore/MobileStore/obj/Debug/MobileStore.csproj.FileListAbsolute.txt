@@ -1,0 +1,47 @@
+D:\Rabtsava\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+D:\Rabtsava\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+D:\Rabtsava\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+D:\Rabtsava\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+D:\Rabtsava\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+D:\Rabtsava\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+D:\Rabtsava\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+D:\Rabtsava\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+D:\Rabtsava\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.MainForm.resources
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.MainForm.resources
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\obj\Debug\MobileStore.MainForm.resources
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+D:\Rabtsava\WinForms\DZ\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.MainForm.resources
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\11.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.MainForm.resources
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\WinForms\22.04.2017\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
