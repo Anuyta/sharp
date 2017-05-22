@@ -1,0 +1,26 @@
+D:\Рябцева\c#\Drinker\Drinker\bin\Debug\Drinker.exe.config
+D:\Рябцева\c#\Drinker\Drinker\obj\Debug\Drinker.csprojResolveAssemblyReference.cache
+D:\Рябцева\c#\Drinker\Drinker\bin\Debug\Drinker.exe
+D:\Рябцева\c#\Drinker\Drinker\bin\Debug\Drinker.pdb
+D:\Рябцева\c#\Drinker\Drinker\obj\Debug\Drinker.exe
+D:\Рябцева\c#\Drinker\Drinker\obj\Debug\Drinker.pdb
+D:\step\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.exe.config
+D:\step\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.exe
+D:\step\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.pdb
+D:\step\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.csprojResolveAssemblyReference.cache
+D:\step\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.exe
+D:\step\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.pdb
+D:\Рябцева\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.exe.config
+D:\Рябцева\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.exe
+D:\Рябцева\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.pdb
+D:\Рябцева\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.exe
+D:\Рябцева\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.pdb
+D:\Рябцева\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.csprojResolveAssemblyReference.cache
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.exe.config
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\bin\Debug\Drinker.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\obj\Debug\Drinker.csprojResolveAssemblyReference.cache
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\bin\Debug\LogerApp.dll
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\Drinker\bin\Debug\LogerApp.pdb

@@ -1,0 +1,8 @@
+D:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\bin\Debug\Simulator.exe.config
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\bin\Debug\Simulator.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\bin\Debug\Simulator.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\bin\Debug\SimulatorLib.dll
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\bin\Debug\SimulatorLib.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\obj\Debug\Simulator.exe
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\Simulator\Simulator\obj\Debug\Simulator.pdb

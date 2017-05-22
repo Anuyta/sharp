@@ -1,0 +1,5 @@
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\LogerApp\bin\Debug\LogerApp.dll
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\LogerApp\bin\Debug\LogerApp.pdb
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\LogerApp\obj\Debug\DrinkerLib.csprojResolveAssemblyReference.cache
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\LogerApp\obj\Debug\LogerApp.dll
+d:\Мои документы\УЧЕБА\АКАДЕМИЯ ШАГ\c#\DZ\Drinker\LogerApp\obj\Debug\LogerApp.pdb

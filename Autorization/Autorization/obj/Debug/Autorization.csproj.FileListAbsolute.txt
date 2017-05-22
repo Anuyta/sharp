@@ -1,0 +1,35 @@
+D:\Rabtsava\WinForms\Autorization\Autorization\bin\Debug\Autorization.exe.config
+D:\Rabtsava\WinForms\Autorization\Autorization\bin\Debug\Autorization.exe
+D:\Rabtsava\WinForms\Autorization\Autorization\bin\Debug\Autorization.pdb
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.csprojResolveAssemblyReference.cache
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.MainForm.resources
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.csproj.GenerateResource.Cache
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.exe
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.pdb
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.Registration.resources
+D:\Rabtsava\WinForms\Autorization\Autorization\obj\Debug\Autorization.Forms.MainAppForm.resources
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\bin\Debug\Autorization.exe.config
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.exe
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.pdb
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\bin\Debug\Autorization.exe
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\bin\Debug\Autorization.pdb
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.Forms.MainAppForm.resources
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.MainForm.resources
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.Registration.resources
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.csproj.GenerateResource.Cache
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.Forms.RecoveryPasswordForm.resources
+D:\DOCUMENTS\ITSTEP\WinForms\Autorization\Autorization\obj\Debug\Autorization.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\bin\Debug\Autorization.exe.config
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.exe
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.pdb
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\bin\Debug\Autorization.exe
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\bin\Debug\Autorization.pdb
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.Forms.MainAppForm.resources
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.Forms.RecoveryPasswordForm.resources
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.MainForm.resources
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.Registration.resources
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.csproj.GenerateResource.Cache
+D:\DOCUMENTS\ITSTEP\WinForms\COMPLETE DZ\Autorization\Autorization\obj\Debug\Autorization.csprojResolveAssemblyReference.cache

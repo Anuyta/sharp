@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drinker", "Drinker\Drinker.csproj", "{EBDB1525-202E-4F32-98C3-496164F57548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinkerLib", "LogerApp\DrinkerLib.csproj", "{6614B76E-6304-4FDB-8EED-CCE88104BFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDB1525-202E-4F32-98C3-496164F57548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDB1525-202E-4F32-98C3-496164F57548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDB1525-202E-4F32-98C3-496164F57548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDB1525-202E-4F32-98C3-496164F57548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6614B76E-6304-4FDB-8EED-CCE88104BFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6614B76E-6304-4FDB-8EED-CCE88104BFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6614B76E-6304-4FDB-8EED-CCE88104BFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6614B76E-6304-4FDB-8EED-CCE88104BFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
